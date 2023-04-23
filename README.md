@@ -1,4 +1,4 @@
-# paradice
+# Paradice
 
 Paradice est un projet d'application permettant la simulation d'un lancer de dé grâce aux classes abstraites
 
