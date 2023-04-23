@@ -1,6 +1,6 @@
 # paradice
 
-Projet d'application permettant la simulation d'un lancer de dé 
+Paradice est un projet d'application permettant la simulation d'un lancer de dé grace au classes abstraites
 
 ## Getting Started
 
