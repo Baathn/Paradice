@@ -12,7 +12,7 @@ Le dossier myhomepage.dart est le dossier contenant la vue du projet
 
 Le dossier main.dart est le dossier qui permet de lancer l'application
 
-ERREUR : Le bouton ne marche pas, il faut changer lidice.length (dans le dossier dicepool.dart L.36) pour que cela fonctionne
+ERREUR : Le bouton ne marche pas, il faut changer lidice.length (dans le dossier dicepool.dart, ligne 36) pour que cela fonctionne
 ## Getting Started
 
 This project is a starting point for a Flutter application.
