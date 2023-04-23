@@ -1,6 +1,16 @@
 # paradice
 
-Paradice est un projet d'application permettant la simulation d'un lancer de dé grace au classes abstraites
+Paradice est un projet d'application permettant la simulation d'un lancer de dé grâce aux classes abstraites
+
+Le dossier dice.dart le dossier qui permet de lancer un dé et contenant la classe mère des dossiers dice6.dart, dice10.dart, dice20.dart et dice100.dart
+Ceux-ci permettent le changement de nombre de faces dans la classe mère
+
+Le dossier dicepool.dart le dossier qui permet de lancer un paquet de dés et contenant la classe mère des dossiers dicepool6.dart, dicepool10.dart, dicepool20.dart et dicepool100.dart
+Ceux-ci permettent le changement de type de dés à lancer (6 faces, 10 faces, 20 faces, 100 faces) dans la classe mère
+
+Le dossier myhomepage.dart est le dossier contenant la vue du projet
+
+Le dossier main.dart est le dossier qui permet de lancer l'application
 
 ## Getting Started
 
