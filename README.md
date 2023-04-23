@@ -1,6 +1,6 @@
 # paradice
 
-Belek
+Projet d'application permettant la simulation d'un lancer de dé 
 
 ## Getting Started
 
